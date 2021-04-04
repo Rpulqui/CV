@@ -1,5 +1,5 @@
 baseURL: http://example.org/
-languageCode: en
+languageCode: es
 title: 'CV Renán Pulquillanca'
 theme: hugo-devresume-theme
 googleAnalytics: UA-XXXXXXX-Y
@@ -18,7 +18,7 @@ params:
     enable: yes
     list:
       - icon: fas fa-phone-square
-        text: 0123 4567 890
+        text: +569 49463457
         url: tel:#
       - icon: fas fa-envelope-square
         text: simon.doe@yourwebsite.com
@@ -110,15 +110,15 @@ params:
     enable: yes
     list:
       - level: Native
-        name: English
+        name: Español
       - level: Professional
-        name: Spanish
+        name: Inglés
   primaryColor: '#54B689'
   profile:
-    avatar: avatar.png
+    avatar: avatar1.png
     enable: yes
-    name: Simon Doe
-    tagline: Senior Software Engineer
+    name: Renán Pulquillanca
+    tagline: Ingeniero Civil Químico
   projects:
     enable: yes
     list:
