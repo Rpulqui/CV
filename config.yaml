@@ -175,12 +175,5 @@ params:
         url: //twitter.com/username
   summary:
     enable: yes
-    text: Summarise your career here. Donec quam felis, ultricies nec, pellentesque
-      eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-      ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis
-      parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus.
-      Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit
-      amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet
-      nibh.
+    text: Profesional con experiencia en procesamiento, validación e interpretación de datos hidroquímicos de aguas superficiales y subterráneas de diferentes proyectos mineros. Encargado de la elaboración de líneas de base de calidad de aguas, y, posee participación en Declaraciones y Estudios de Impacto Ambiental. Posee experiencia en modelación y simulación de procesos con lenguajes de programación tales como Matlab y Python. Además, posee sólidos conocimientos en extracción, importación, manipulación, limpieza y visualización de datos en R, Python, Power BI y SQL. Se ha desempeñado como administrador de bases de datos en SGA y tiene habilidades de programación para consultas avanzadas en SQL. Ha desarrollado aplicaciones en PowerApps y flujos de trabajo en PowerAutomate para control de proyectos, gestión de carga laboral, gestión técnica unidad de recursos hídricos y sistema gestión de calidad. Además, cuenta con conocimientos de normativas ambientales relacionadas a la calidad del agua y residuos industriales. Por último, posee experiencia en sistemas de información geográfica utilizando R y Arcgis. 
   textPrimaryColor: '#292929'
