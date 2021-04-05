@@ -23,9 +23,9 @@ params:
       - icon: fas fa-envelope-square
         text: renan.pulquillanca@gmail.com
         url: mailto:#
-      - icon: fas fa-globe
-        text: www.yourwebsite.com
-        url: '#'
+      #- icon: fas fa-globe
+       # text: www.yourwebsite.com
+        #url: '#'
     location: Santiago de Chile
   description: DevResume - Bootstrap 4 Resume/CV Template For Software Developers
   education:
