@@ -21,7 +21,7 @@ params:
         text: +569 49463457
         url: tel:#
       - icon: fas fa-envelope-square
-        text: simon.doe@yourwebsite.com
+        text: renan.pulquillanca@gmail.com
         url: mailto:#
       - icon: fas fa-globe
         text: www.yourwebsite.com
