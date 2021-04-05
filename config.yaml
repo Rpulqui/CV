@@ -150,20 +150,20 @@ params:
     enable: yes
     list:
       - items:
-          - details: R/Python/Matlab/SQL
-          - details: PowerBi/PowerApps/PowerAutomate
-          - details: Excel/Access/MS SQL
-          - details: PostgreSQL/MySQL Server
-          - details: Arcgis/Qgis
-          - details: Design and implement database structures
+          - details: R | Python | Matlab | SQL
+          - details: PowerBi | PowerApps | PowerAutomate
+          - details: Excel | Access | MSSQL Server
+          - details: PostgreSQL | MySQL Server
+          - details: Arcgis | Qgis
+          - details: Diseño e implementación de estructuras de base de datos
           - details: Lead and deliver complex software systems
-        title: Technical
+        title: Técnico
       - items:
-          - details: Effective communication
+          - details: Comunicación efectiva
           - details: Team player
           - details: Strong problem solver
           - details: Good time management
-        title: Professional
+        title: Profesional
   social:
     enable: yes
     list:
