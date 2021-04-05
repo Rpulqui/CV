@@ -165,10 +165,10 @@ params:
     enable: yes
     list:
       - icon: fab fa-github-square
-        title: username
+        title: Rpulqui
         url: //github.com/Rpulqui
       - icon: fab fa-linkedin
-        title: username
+        title: Rpulquillanca
         url: //linkedin.com/in/rpulquillanca
       - icon: fab fa-twitter-square
         title: '@username'
