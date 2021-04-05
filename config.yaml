@@ -23,6 +23,9 @@ params:
       - icon: fas fa-envelope-square
         text: renan.pulquillanca@gmail.com
         url: mailto:#
+      - icon: fab fa-linkedin
+        title: Rpulquillanca
+        url: //linkedin.com/in/rpulquillanca
       #- icon: fas fa-globe
        # text: www.yourwebsite.com
         #url: '#'
