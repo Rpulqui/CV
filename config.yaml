@@ -147,11 +147,11 @@ params:
     enable: yes
     list:
       - items:
-          - details: JavaScript/Angular/React/Vue
-          - details: Python/Ruby/PHP
-          - details: Node.js/ASP.NET
-          - details: PostgreSQL/MySQL
-          - details: Object-oriented design
+          - details: R/Python/Matlab/SQL
+          - details: PowerBi/PowerApps/PowerAutomate
+          - details: Excel/Access/MS SQL
+          - details: PostgreSQL/MySQL Server
+          - details: Arcgis/Qgis
           - details: Design and implement database structures
           - details: Lead and deliver complex software systems
         title: Technical
