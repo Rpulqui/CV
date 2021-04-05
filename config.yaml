@@ -166,10 +166,10 @@ params:
     list:
       - icon: fab fa-github-square
         title: username
-        url: //github.com/username
+        url: //github.com/Rpulqui
       - icon: fab fa-linkedin
         title: username
-        url: //linkedin.com/in/username
+        url: //linkedin.com/in/rpulquillanca
       - icon: fab fa-twitter-square
         title: '@username'
         url: //twitter.com/username
