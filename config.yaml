@@ -157,13 +157,13 @@ params:
           - details: Arcgis | Qgis
           - details: Diseño e implementación de estructuras de base de datos
           - details: Lead and deliver complex software systems
-        title: Técnico
+        title: Técnicas
       - items:
           - details: Comunicación efectiva
           - details: Team player
           - details: Strong problem solver
           - details: Good time management
-        title: Profesional
+        title: Profesionales
   social:
     enable: yes
     list:
