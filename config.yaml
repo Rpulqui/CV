@@ -51,7 +51,7 @@ params:
       - company: Gestión Ambiental S.A.
         dates: 202O - Actualidad
         details: Integrante de la Unidad de Recursos Hídricos desde el año 2020, ha sido responsable de elaborar informes técnicos de calidad de aguas para proyectos mineros tales como Barrick Gold, Minera Los Pelambres y Knauf. 
-                Posee paticipación en Estudios y Declaraciones de impacto ambiental de disntos proyectos, entre ellos, Sales de Maricunga (SIMCO), Ampliación de la planta depuradora de aguas servidas (Aguas Décima) y Ampliación Mina Rubí (Knauf).
+                Posee participación en Estudios y Declaraciones de impacto ambiental de disntos proyectos, entre ellos, Sales de Maricunga (SIMCO), Ampliación de la planta depuradora de aguas servidas (Aguas Décima) y Ampliación Mina Rubí (Knauf).
                 También se ha encargado de aportar a la innovación de la empresa mediante la creación de aplicaciones que permiten la automatización de flujos de trabajo dentro de la compañía.
         items:
           - details: Encargado de elaborar líneas de base de calidad de aguas para proyectos con tramitación ambiental.
@@ -152,7 +152,7 @@ params:
     enable: yes
     text: Profesional con experiencia en procesamiento, validación e interpretación de datos hidroquímicos
           de aguas superficiales y subterráneas de diferentes proyectos mineros. 
-          Encargado de elaboración de líneas de base para la componente calidad de aguas. Asimismo, posee participación en Declaraciones
+          Encargado de la elaboración de líneas de base para la componente calidad de aguas. Asimismo, posee participación en Declaraciones
           y Estudios de Impacto Ambiental. Posee experiencia en modelación y simulación de procesos con lenguajes de
           programación tales como Matlab y Python. Además, posee sólidos conocimientos en extracción, importación, 
           manipulación, limpieza y visualización de datos en R, Python, Power BI y SQL. Se ha desempeñado como
