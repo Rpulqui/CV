@@ -78,8 +78,9 @@ params:
                  Además, se estima la eficiencia general de producción de diversos equipos (OEE) mediante información histórica de los lotes producidos por las máquinas.
         title: Ayudante de Ingeniería
       - company: Codelco
-        dates: 2015 - 2015
-        details: Encargado de validar un modelo de Machine Learning sobre la recuperación de cobre en pilas de lixiviación para futuros escenarios de explotación de mineral en la división Radomiro Tomic.
+        dates: ene 2015 - mar 2015
+        details: En el de área de planta de la división Radomiro Tomic fue el encargado de validar un modelo de Machine Learning para estimación de la recuperación de cobre en las pilas de lixiviación,
+                 para futuros escenarios de explotación de mineral tanto de minerales oxidados y sulfurados.
         title: Ayudante de Ingeniería
       - company: Tutor Uchile
         dates: 2014 - 2020
@@ -101,7 +102,7 @@ params:
       - name: Modelación y simulación de procesos
       - name: Ciencia de datos
       - name: Programación
-      - name: Innovación
+      - name: Innovación y desarrollo tecnológico
   languages:
     enable: yes
     list:
@@ -134,10 +135,11 @@ params:
           - details: Lead and deliver complex software systems
         title: Técnicas
       - items:
+          - details: Trabajo en equipo
+          - details: Capacidad de resolución de problemas
+          - details: Gestión del tiempo
+          - details: Ética de trabajo
           - details: Comunicación efectiva
-          - details: Team player
-          - details: Strong problem solver
-          - details: Good time management
         title: Profesionales
   social:
     enable: yes
@@ -154,14 +156,14 @@ params:
   summary:
     enable: yes
     text: Profesional con experiencia en procesamiento, validación e interpretación de datos hidroquímicos
-    de aguas superficiales y subterráneas de diferentes proyectos mineros. 
-    Encargado de la elaboración de líneas de base de calidad de aguas, y, posee participación en Declaraciones
-    y Estudios de Impacto Ambiental. Posee experiencia en modelación y simulación de procesos con lenguajes de
-    programación tales como Matlab y Python. Además, posee sólidos conocimientos en extracción, importación, 
-    manipulación, limpieza y visualización de datos en R, Python, Power BI y SQL. Se ha desempeñado como
-    administrador de bases de datos en SGA y tiene habilidades de programación para consultas avanzadas en SQL. 
-    Ha desarrollado aplicaciones en PowerApps y flujos de trabajo en PowerAutomate para control de proyectos, 
-    gestión de carga laboral, gestión técnica unidad de recursos hídricos y sistema gestión de calidad. 
-    Además, cuenta con conocimientos de normativas ambientales relacionadas a la calidad del agua y residuos industriales. 
-    Por último, posee experiencia en sistemas de información geográfica utilizando R y Arcgis. 
+          de aguas superficiales y subterráneas de diferentes proyectos mineros. 
+          Encargado de elaboración de líneas de base componente calidad de aguas, y, posee participación en Declaraciones
+          y Estudios de Impacto Ambiental. Posee experiencia en modelación y simulación de procesos con lenguajes de
+          programación tales como Matlab y Python. Además, posee sólidos conocimientos en extracción, importación, 
+          manipulación, limpieza y visualización de datos en R, Python, Power BI y SQL. Se ha desempeñado como
+          administrador de bases de datos en SGA y tiene habilidades de programación para consultas avanzadas en SQL. 
+          Ha desarrollado aplicaciones en PowerApps y flujos de trabajo en PowerAutomate para control de proyectos, 
+          gestión de carga laboral, gestión técnica unidad de recursos hídricos y sistema gestión de calidad. 
+          Además, cuenta con conocimientos de normativas ambientales relacionadas a la calidad del agua y residuos industriales. 
+          Por último, posee experiencia en sistemas de información geográfica utilizando R y Arcgis. 
   textPrimaryColor: '#292929'
