@@ -115,7 +115,7 @@ params:
     enable: yes
     list:
       - meta: Ingeniería - 2019 
-        tagline: El objetivo general de este proyecto fue diseñar conceptualmente el proceso productivo de biocombustibles a partir de remolacha azucarera como materia prima. Se desarrolló la organización, el modelo de negocios y la localización virtual de la empresa. Además se describió en detalle el proceso productivo, el diagrama de flujos, el balance de masa y el dimensionamiento final de los equipos.
+        tagline: El objetivo general de este proyecto fue diseñar conceptualmente el proceso productivo de biocombustibles a partir de remolacha azucarera como materia prima. Se desarrolló la organización, el modelo de negocios y la localización virtual de la empresa. Además se describió en detalle el proceso productivo, el diagrama de flujos, el balance de masa, y, finalmente se procedió a realizar el dimensionamiento final de los equipos.
         title: Enerbeet - Producción de biocombustibles a partir de remolacha azucarera
   skills:
     enable: yes
