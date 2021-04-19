@@ -153,5 +153,15 @@ params:
         url: //twitter.com/pulqui_renan
   summary:
     enable: yes
-    text: Profesional con experiencia en procesamiento, validación e interpretación de datos hidroquímicos de aguas superficiales y subterráneas de diferentes proyectos mineros. Encargado de la elaboración de líneas de base de calidad de aguas, y, posee participación en Declaraciones y Estudios de Impacto Ambiental. Posee experiencia en modelación y simulación de procesos con lenguajes de programación tales como Matlab y Python. Además, posee sólidos conocimientos en extracción, importación, manipulación, limpieza y visualización de datos en R, Python, Power BI y SQL. Se ha desempeñado como administrador de bases de datos en SGA y tiene habilidades de programación para consultas avanzadas en SQL. Ha desarrollado aplicaciones en PowerApps y flujos de trabajo en PowerAutomate para control de proyectos, gestión de carga laboral, gestión técnica unidad de recursos hídricos y sistema gestión de calidad. Además, cuenta con conocimientos de normativas ambientales relacionadas a la calidad del agua y residuos industriales. Por último, posee experiencia en sistemas de información geográfica utilizando R y Arcgis. 
+    text: Profesional con experiencia en procesamiento, validación e interpretación de datos hidroquímicos
+    de aguas superficiales y subterráneas de diferentes proyectos mineros. 
+    Encargado de la elaboración de líneas de base de calidad de aguas, y, posee participación en Declaraciones
+    y Estudios de Impacto Ambiental. Posee experiencia en modelación y simulación de procesos con lenguajes de
+    programación tales como Matlab y Python. Además, posee sólidos conocimientos en extracción, importación, 
+    manipulación, limpieza y visualización de datos en R, Python, Power BI y SQL. Se ha desempeñado como
+    administrador de bases de datos en SGA y tiene habilidades de programación para consultas avanzadas en SQL. 
+    Ha desarrollado aplicaciones en PowerApps y flujos de trabajo en PowerAutomate para control de proyectos, 
+    gestión de carga laboral, gestión técnica unidad de recursos hídricos y sistema gestión de calidad. 
+    Además, cuenta con conocimientos de normativas ambientales relacionadas a la calidad del agua y residuos industriales. 
+    Por último, posee experiencia en sistemas de información geográfica utilizando R y Arcgis. 
   textPrimaryColor: '#292929'
