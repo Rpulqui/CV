@@ -50,14 +50,9 @@ params:
     list:
       - company: Gestión Ambiental S.A.
         dates: 202O - Actualidad
-        details: Role description goes here ipsum dolor sit amet, consectetuer adipiscing
-          elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-          penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec
-          quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede
-          justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing
-          elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-          penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec
-          quam felis.
+        details: Integrante de la Unidad de Recursos Hídricos desde el año 2020, ha sido responsable de elaborar informes técnicos de calidad de aguas para proyectos mineros tales como Barrick Gold, Minera Los Pelambres y Knauf. 
+                Posee paticipación en Estudios y Declaraciones de impacto ambiental de disntos proyectos, entre ellos, Sales de Maricunga (SIMCO), Ampliación de la planta depuradora de aguas servidas (Aguas Décima) y Ampliación Mina Rubí (Knauf).
+                También se ha encargado de aportar a la innovación de la empresa mediante la creación de aplicaciones que permiten la automatización de flujos de trabajo dentro de la compañía.
         items:
           - details: Encargado de elaborar líneas de base de calidad de aguas para proyectos con tramitación ambiental.
           - details: Desarrollo de aplicaciones en PowerApps, automatización de flujos de trabajo en PowerAutomate, y, elaboración de reportes y dashboards en PowerBI.
@@ -120,8 +115,8 @@ params:
     enable: yes
     list:
       - meta: Ingeniería - 2019 
-        tagline: El objetivo general de este proyecto fue diseñar conceptualmente el proceso productivo de biocombustibles a partir de remolacha azucarera como materia prima. Se desarrolló la organización, el modelo de negocios y la localización virtual de la empresa. Además se describió en detalle el proceso productivo, el diagrama de flujos, el balance de masa y el dimensionamiento final de los equipos. Finalmente, realizar el análisis integral (HAIN) y presentar la responsabilidad social del proyecto.
-        title: Diseño y evaluación de la producción de biocombustibles a partir de remolacha azucarera
+        tagline: El objetivo general de este proyecto fue diseñar conceptualmente el proceso productivo de biocombustibles a partir de remolacha azucarera como materia prima. Se desarrolló la organización, el modelo de negocios y la localización virtual de la empresa. Además se describió en detalle el proceso productivo, el diagrama de flujos, el balance de masa y el dimensionamiento final de los equipos.
+        title: Enerbeet - Producción de biocombustibles a partir de remolacha azucarera
   skills:
     enable: yes
     list:
@@ -129,10 +124,10 @@ params:
           - details: R | Python | Matlab | SQL | VBA | DAX
           - details: PowerBi | PowerApps | PowerAutomate
           - details: Excel | Access | MSSQL Server
-          - details: PostgreSQL | MySQL Server
+          - details: PostgreSQL | MySQL
           - details: Arcgis | Qgis
           - details: Diseño e implementación de estructuras de base de datos
-          - details: Lead and deliver complex software systems
+          #- details: Lead and deliver complex software systems
         title: Técnicas
       - items:
           - details: Trabajo en equipo
@@ -157,13 +152,13 @@ params:
     enable: yes
     text: Profesional con experiencia en procesamiento, validación e interpretación de datos hidroquímicos
           de aguas superficiales y subterráneas de diferentes proyectos mineros. 
-          Encargado de elaboración de líneas de base componente calidad de aguas, y, posee participación en Declaraciones
+          Encargado de elaboración de líneas de base para la componente calidad de aguas. Asimismo, posee participación en Declaraciones
           y Estudios de Impacto Ambiental. Posee experiencia en modelación y simulación de procesos con lenguajes de
           programación tales como Matlab y Python. Además, posee sólidos conocimientos en extracción, importación, 
           manipulación, limpieza y visualización de datos en R, Python, Power BI y SQL. Se ha desempeñado como
           administrador de bases de datos en SGA y tiene habilidades de programación para consultas avanzadas en SQL. 
-          Ha desarrollado aplicaciones en PowerApps y flujos de trabajo en PowerAutomate para control de proyectos, 
-          gestión de carga laboral, gestión técnica unidad de recursos hídricos y sistema gestión de calidad. 
+          Ha desarrollado aplicaciones en PowerApps y flujos de trabajo en PowerAutomate para el control de proyectos, 
+          gestión de carga laboral, gestión técnica unidad de recursos hídricos y para el sistema gestión de calidad. 
           Además, cuenta con conocimientos de normativas ambientales relacionadas a la calidad del agua y residuos industriales. 
           Por último, posee experiencia en sistemas de información geográfica utilizando R y Arcgis. 
   textPrimaryColor: '#292929'
