@@ -77,8 +77,8 @@ params:
         title: Ayudante de Ingeniería
       - company: Codelco
         dates: ene 2015 - mar 2015
-        details: En el de área de planta de la división Radomiro Tomic fue el encargado de validar un modelo de Machine Learning para estimación de la recuperación de cobre en las pilas de lixiviación,
-                 para futuros escenarios de explotación de mineral tanto de minerales oxidados y sulfurados.
+        details: Encargado de validar un modelo matemático de recuperación de cobre en pilas de lixiviación mediante técnicas de Machine Learning.
+                Este modelo estimaba la concentración de cobre en PLS para futuros escenarios de explotación de mineral tanto de minerales oxidados y sulfurados.
         title: Ayudante de Ingeniería
       - company: Tutor Uchile
         dates: 2014 - 2020
