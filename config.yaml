@@ -54,6 +54,7 @@ params:
                 Posee participación en Estudios y Declaraciones de impacto ambiental de distintos proyectos, entre ellos, Sales de Maricunga (SIMCO), Ampliación de la planta depuradora de aguas servidas (Aguas Décima) y Ampliación Mina Rubí (Knauf).
                 También se ha encargado de aportar a la innovación de la empresa mediante la creación de aplicaciones que permiten la automatización de flujos de trabajo dentro de la compañía.
         items:
+          - details: Encargado de evaluar la infiltración de agua en el tranque Talabre utilizando como trazador la concentración de sulfato en distintos pozos de monitoreo.
           - details: Responsable de crear y administrar las bases de datos de proyectos mineros, entre ellos SIMCO, Albermarle, Barrick Gold, Teck, Minera Los Pelambres, Codelco DMH.
           - details: Encargado de realizar la modelación de la dispersión de contaminantes producto de la descarga de un efluente en el río Valdivia. 
           - details: Encargado de elaborar líneas de base de calidad de aguas para proyectos con tramitación ambiental.
@@ -152,24 +153,25 @@ params:
         url: //twitter.com/pulqui_renan
   summary:
     enable: yes
-#    text: Profesional con experiencia en procesamiento, validación e interpretación de datos hidroquímicos
-#          de aguas superficiales y subterráneas de diferentes proyectos mineros. 
-#          Encargado de la elaboración de líneas de base para la componente calidad de aguas. Asimismo, posee participación en Declaraciones
-#          y Estudios de Impacto Ambiental. Posee experiencia en modelación y simulación de procesos con lenguajes de
-#          programación tales como Matlab y Python. Además, posee sólidos conocimientos en extracción, importación, 
-#          manipulación, limpieza y visualización de datos en R, Python, Power BI y SQL. Se ha desempeñado como
-#          administrador de bases de datos en SGA y tiene habilidades de programación para consultas avanzadas en SQL. 
-#          Ha desarrollado aplicaciones en PowerApps y flujos de trabajo en PowerAutomate para el control de proyectos, 
-#          gestión de carga laboral, gestión técnica unidad de recursos hídricos y para el sistema gestión de calidad. 
-#          Además, cuenta con conocimientos de normativas ambientales relacionadas a la calidad del agua y residuos industriales. 
+    text: Profesional con experiencia en procesamiento, validación e interpretación de datos hidroquímicos
+         de aguas superficiales y subterráneas de diferentes proyectos mineros. Posee experiencia en modelación numérica
+         para el transporte de contaminantes en aguas superficiales utilizando el Software Iber.
+         Encargado de la elaboración de líneas de base para la componente calidad de aguas. Asimismo, posee participación en Declaraciones
+         y Estudios de Impacto Ambiental. Posee experiencia en modelación y simulación de procesos con lenguajes de
+         programación tales como Matlab y Python. Además, posee sólidos conocimientos en extracción, importación,
+         manipulación, limpieza y visualización de datos en R, Python, Power BI y SQL. Se ha desempeñado como
+         administrador de bases de datos en SGA y tiene habilidades de programación para consultas avanzadas en SQL.
+         Ha desarrollado aplicaciones en PowerApps y flujos de trabajo en PowerAutomate para el control de proyectos,
+         gestión de carga laboral, gestión técnica unidad de recursos hídricos y para el sistema gestión de calidad.
+         Además, cuenta con conocimientos de normativas ambientales relacionadas a la calidad del agua y residuos industriales.
 #          Por último, posee experiencia en sistemas de información geográfica utilizando R y Arcgis. 
-    text: Profesional con experiencia en procesamiento, validación QA/QC e interpretación de datos de distintas componentes
-          ambientales entre ellas geología, hidrogeología, hidrología, calidad de aguas y calidad del aire de distintos proyectos mineros.
-          Posee experiencia en modelación y simulación de procesos con lenguajes de
-          programación tales como Matlab y Python. Además, posee sólidos conocimientos en extracción, importación, 
-          manipulación, limpieza y visualización de datos en R, Python, Power BI y SQL. Se ha desempeñado como
-          administrador de las bases de datos de los distintos proyectos mineros , y, además tiene habilidades de programación para consultas avanzadas en SQL. 
-          Ha desarrollado aplicaciones en PowerApps y flujos de trabajo en PowerAutomate para el control de proyectos, 
-          gestión de carga laboral, gestión técnica de proyectos y para el sistema gestión de calidad de SGA. 
-          
+    # text: Profesional con experiencia en procesamiento, validación QA/QC e interpretación de datos de distintas componentes
+    #       ambientales entre ellas geología, hidrogeología, hidrología, calidad de aguas y calidad del aire de distintos proyectos mineros.
+    #       Posee experiencia en modelación y simulación de procesos con lenguajes de
+    #       programación tales como Matlab y Python. Además, posee sólidos conocimientos en extracción, importación, 
+    #       manipulación, limpieza y visualización de datos en R, Python, Power BI y SQL. Se ha desempeñado como
+    #       administrador de las bases de datos de los distintos proyectos mineros , y, además tiene habilidades de programación para consultas avanzadas en SQL. 
+    #       Ha desarrollado aplicaciones en PowerApps y flujos de trabajo en PowerAutomate para el control de proyectos, 
+    #       gestión de carga laboral, gestión técnica de proyectos y para el sistema gestión de calidad de SGA. 
+    #       
   textPrimaryColor: '#292929'
